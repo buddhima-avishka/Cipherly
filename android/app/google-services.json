@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049326764715",
+    "project_id": "cipherly-ac711",
+    "storage_bucket": "cipherly-ac711.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049326764715:android:d67296ec3d7996abce6dee",
+        "android_client_info": {
+          "package_name": "com.example.cipherly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhk8Ehl9PBN31X4hNCP-MU5aonQlBW3FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
